@@ -1332,11 +1332,11 @@ a {
 }
 .cid-ukw1KNUdRN .mbr-overlay {
   background-color: #000000;
-  opacity: 0.5;
+  opacity: 0.6;
 }
 @media (min-width: 768px) {
   .cid-ukw1KNUdRN {
-    align-items: flex-end;
+    align-items: center;
   }
   .cid-ukw1KNUdRN .row {
     justify-content: center;
@@ -1353,7 +1353,7 @@ a {
 @media (max-width: 767px) {
   .cid-ukw1KNUdRN {
     -webkit-align-items: center;
-    align-items: flex-end;
+    align-items: center;
   }
   .cid-ukw1KNUdRN .mbr-row {
     -webkit-justify-content: center;
