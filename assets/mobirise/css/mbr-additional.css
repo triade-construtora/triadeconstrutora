@@ -1397,6 +1397,7 @@ a {
 }
 .cid-ulkDNJxsTx .num {
   color: #2f3f6e;
+  text-align: center;
 }
 .cid-ulkDNJxsTx .item-mb {
   margin-bottom: 2rem;
@@ -1416,6 +1417,10 @@ a {
 }
 .cid-ulkDNJxsTx .content-head {
   max-width: 800px;
+}
+.cid-ulkDNJxsTx .card-title,
+.cid-ulkDNJxsTx .card-img {
+  text-align: center;
 }
 .cid-ukx6VOhM3W {
   padding-top: 6rem;
